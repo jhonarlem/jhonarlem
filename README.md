@@ -8,8 +8,8 @@ I'm Gosu, web development 👨🏽‍💻🚀<br><br>🌱 I’m currently learni
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-jhondoncan.vercel.app/api?username=gotsudev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gotsudev&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-jhondoncan.vercel.app/api?username=jhonarlem&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhonarlem&theme=tokyonight&hide_border=false)
 
 ---
 
